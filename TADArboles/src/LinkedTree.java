@@ -251,7 +251,7 @@ public class LinkedTree<E> implements NAryTree<E> {
             }
         }
     }
-    //a
+    //
     public int size() {
         throw new UnsupportedOperationException("Not supported yet.");
     }
